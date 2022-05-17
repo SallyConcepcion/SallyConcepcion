@@ -1,9 +1,12 @@
-<img src.png" alt=![bannergithub](https://user-images.githubusercontent.com/105683499/168724311-b06a5f58-797d-4db7-95af-3f1d7d0b4389.jpg)
+![bannergithub](https://user-images.githubusercontent.com/105683499/168724311-b06a5f58-797d-4db7-95af-3f1d7d0b4389.jpg)
  
 - 👋 Hi, I’m @SallyConcepcion a Data Science apprentice and a STEM Student...
-- 👀 I’m interested in 
+- 👀 I’m interested in
+-  
       Sports Analytics
+      
       Business Analytics
+      
       And have a passion for films and music
                                                                                                                
 - 🌱 I’m currently learning ...
@@ -16,13 +19,15 @@
       
     
      On the other hand,
-      Technical skills such as Programming, SQL, Data Analytics and Data Visualization
+     
+     Technical skills such as Programming, SQL, Data Analytics and Data Visualization
 
 - 💞️ I’m looking to collaborate on
       Projects that make an impact or 
       at least projects that agreggates to my learning curve
                                                                                                                
 - 📫 How to reach me
+
        You can't
      
      KIDDING, you can reach me by my work/college email : 20210485@itla.edu.do
