@@ -20,11 +20,12 @@
     
      On the other hand,
      
-     Technical skills such as Programming, SQL, Data Analytics and Data Visualization
+      Technical skills such as Programming, SQL, Data Analytics and Data Visualization
 
 - 💞️ I’m looking to collaborate on
-      Projects that make an impact or 
-      at least projects that agreggates to my learning curve
+- 
+       Projects that make an impact or 
+       at least projects that agreggates to my learning curve
                                                                                                                
 - 📫 How to reach me
 
