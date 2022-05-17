@@ -11,11 +11,11 @@
                                                                                                                
 - 🌱 I’m currently learning ...
 
-     How to be a better human
+      How to be a better human
       
-     How to communicate better
+      How to communicate better
       
-     How to deliver the best story trough data
+      How to deliver the best story trough data
       
     
      On the other hand,
@@ -25,7 +25,7 @@
 - 💞️ I’m looking to collaborate on
 - 
        Projects that make an impact or 
-       at least projects that agreggates to my learning curve
+       projects that contributes to my learning 
                                                                                                                
 - 📫 How to reach me
 
